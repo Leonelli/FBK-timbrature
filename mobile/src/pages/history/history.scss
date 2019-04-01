@@ -1,0 +1,15 @@
+page-history {
+
+    .missing {
+        color: color($colors, danger)
+    }
+    .item-divider {
+        border: 0 !important;
+    }
+    ion-item-group:nth-child(odd) {
+        background-color: rgba(color($colors, primary), 0.1);
+    }
+    .item, .item-divider {
+        background-color: transparent !important;
+    }
+}

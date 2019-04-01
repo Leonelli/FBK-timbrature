@@ -1,0 +1,7 @@
+{
+  "name": "fbktimbrature",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
